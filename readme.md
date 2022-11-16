@@ -7,7 +7,7 @@ idea 打开一个项目步骤
 
 idea 创建并运行一个web模块
 1. 创建一个web模块
-2. 添加tomcat的sevelet-api.jar 依赖
+2. 添加sevelet库依赖，在Project Structure里添加tomcat的sevelet-api.jar 依赖,或者添加tomcat库依赖
 3. 创建一个artifact
 5. add a run configuration ，attach tomcat
 6. 在Deploy选项卡下，选上建好的artifact
