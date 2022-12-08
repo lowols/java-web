@@ -4,6 +4,7 @@
 2. servlet初体验
 3. 手撕一个Spring MVC框架，体验一个框架一步一步进化的过程及其设计指导思想
 
+### java web初体验
 idea 打开一个项目步骤
 1. Settings里指定Maven，版本不合适的Maven会导致依赖发现失败
 2. Project Structure里，指定sdk，language level
@@ -18,3 +19,5 @@ idea 创建并运行一个web模块
 导入现有的模块到当前项目
 拷贝至当前项目目录下，Project Structure->Import Module
 注：如果web文件夹没有蓝色方块，需要到Project Structure里面添加Facets->web
+### servlet初体验
+### 手撕Spring MVC
