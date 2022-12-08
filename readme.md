@@ -4,8 +4,18 @@
 2. servlet初体验
 3. 手撕一个Spring MVC框架，体验一个框架一步一步进化的过程及其设计指导思想
 4. 
-
+**技术栈**
 ![](imgs/learningPoints.jpg)
+**功能点**
+对项目的持久层，控制层，ioc，事务做了通用解决方案的实现。
+![](imgs/funcNodes.jpg)
+以控制层为例，抽取实现了中央控制器，完成了三大步骤的操作：参数获取，目标方法调用，视图处理
+![](imgs/dispatchServlet.jpg)
+学习编程不能光看，要上手。这里先动手写代码实现功能，然后提出问题（不是功能实现上的问题，而是系统架构层次的问题），然后分析问题，写代码验证解决方案。实现编程思维模式的升级，让你既知皮毛，又知内里。
+![](imgs/thinkingTraining.jpg)
+项目实战安排更合理，一步步进化，用不同项目训练对应的技术
+![](imgs/projTechs.jpg)
+
 视频地址：https://www.bilibili.com/video/BV1AS4y177xJ/?vd_source=93b849a2e05b8dcf37cd770c34797c3c
 原生笔记：https://heavy_code_industry.gitee.io/code_heavy_industry/pro001-javaweb/lecture/
 https://heavy_code_industry.gitee.io/code_heavy_industry/pro001-javaweb/
