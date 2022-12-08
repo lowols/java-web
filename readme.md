@@ -8,6 +8,7 @@
 视频地址：https://www.bilibili.com/video/BV1AS4y177xJ/?vd_source=93b849a2e05b8dcf37cd770c34797c3c
 原生笔记：https://heavy_code_industry.gitee.io/code_heavy_industry/pro001-javaweb/lecture/
 https://heavy_code_industry.gitee.io/code_heavy_industry/pro001-javaweb/
+https://www.wolai.com/nnRjHcUSv2mrRbFKZUpBMS
 
 ### java web初体验
 idea 打开一个项目步骤
