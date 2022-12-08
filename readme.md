@@ -4,6 +4,8 @@
 2. servlet初体验
 3. 手撕一个Spring MVC框架，体验一个框架一步一步进化的过程及其设计指导思想
 
+原生笔记：https://heavy_code_industry.gitee.io/code_heavy_industry/pro001-javaweb/lecture/
+
 ### java web初体验
 idea 打开一个项目步骤
 1. Settings里指定Maven，版本不合适的Maven会导致依赖发现失败
