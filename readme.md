@@ -5,6 +5,7 @@
 3. 手撕一个Spring MVC框架，体验一个框架一步一步进化的过程及其设计指导思想
 4. 
 
+![](imgs/learningPoints.jpg)
 视频地址：https://www.bilibili.com/video/BV1AS4y177xJ/?vd_source=93b849a2e05b8dcf37cd770c34797c3c
 原生笔记：https://heavy_code_industry.gitee.io/code_heavy_industry/pro001-javaweb/lecture/
 https://heavy_code_industry.gitee.io/code_heavy_industry/pro001-javaweb/
