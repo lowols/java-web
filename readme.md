@@ -20,7 +20,10 @@
 原生笔记：https://heavy_code_industry.gitee.io/code_heavy_industry/pro001-javaweb/lecture/
 https://heavy_code_industry.gitee.io/code_heavy_industry/pro001-javaweb/
 https://www.wolai.com/nnRjHcUSv2mrRbFKZUpBMS
-
+### Tomcat入门
+建一个空网站：在webapp文件夹里，建一个文件夹【webTest】，这个文件夹里再建一个WEB-INFO文件夹。
+就建好了一个空网站。
+通过localhost:8080/webTest就可以访问了。webTest称为context-root
 ### java web初体验
 idea 打开一个项目步骤
 1. Settings里指定Maven，版本不合适的Maven会导致依赖发现失败
